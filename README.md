@@ -1,2 +1,2 @@
-# aes-locker
-this is a java project which encrypt/decrypt files to enhance the privacy of files in computers.
+# AES-128-bit-Java-Application
+Aes-128-bit encryption and decryption on file using java and javafx
